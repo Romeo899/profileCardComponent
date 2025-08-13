@@ -22,7 +22,7 @@ Your challenge is to build out this profile card component and get it looking as
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/profile-card-component-RkOpbO5MB7)
 - Live Site URL: [Profile Card Component by Romeo Codes](https://profilecardcomponentrc.netlify.app/)
 
 ### Built with
